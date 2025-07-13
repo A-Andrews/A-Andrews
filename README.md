@@ -26,7 +26,7 @@ Before research, I engineered real-time financial systems in C++, Python, and Ka
 
 **Code:** Python · C++
 **ML:** PyTorch · JAX
-**Infra:** Docker · Slurm · Git · Linux  
+**Infra:** Docker · Slurm · Git · Linux
 **Dev:** · VS Code · PyGame
 
 ---

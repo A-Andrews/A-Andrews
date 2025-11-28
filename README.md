@@ -1,6 +1,5 @@
 
 # A-Andrews
-🧠 Researcher | Engineer | Systems Thinker
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Reinforcement+Learning+%7C+Neural+Architectures+%7C+DPhil&center=true&width=1000&height=45&pause=2000&color=58A6FF&font=Fira+Code" />
@@ -9,14 +8,14 @@
 DPhil student in Computational Neuroscience at Oxford.  
 I build machine learning systems that simulate planning, decision-making, and cognitive reasoning.
 
-Before research, I engineered real-time financial systems in C++, Python, and Kafka - now I design reinforcement learning agents based on neural architectures.
+Before research, I engineered real-time financial systems in C++, Python, and Kafka.
 
 ---
 
 ## ⚙️ Core Interests
 
-- Model-based RL (MuZero, Dreamer)
-- Hierarchical / diffusion planning
+- RL
+- Theory of Mind
 - Cognitive benchmarking environments
 - Modular systems
 
